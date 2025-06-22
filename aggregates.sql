@@ -1,6 +1,6 @@
 
 -- ========================================
--- aggregates.sql - Google-Level SQL Interview Prep
+-- aggregates.sql - SQL Interview Prep
 -- ========================================
 -- Focus: Real-world business use cases, advanced aggregation logic,
 -- filtering with GROUP BY + HAVING, and analytical breakdowns
