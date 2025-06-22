@@ -1,6 +1,6 @@
 
 -- ========================================
--- subqueries_google_faang_level.sql - FAANG-Level SQL Subquery Interview Prep
+-- SQL Subquery Interview Prep
 -- ========================================
 -- Covers: scalar, correlated, EXISTS/NOT EXISTS, IN/NOT IN, derived tables,
 -- filtering, ranking, nested aggregation, and analytics-focused logic
