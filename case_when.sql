@@ -1,6 +1,6 @@
 
 -- ========================================
--- case_when_google_faang_level.sql - FAANG-Level SQL CASE WHEN Interview Prep
+-- case_when.sql - SQL CASE WHEN Interview Prep
 -- ========================================
 -- Focus: business logic, user segmentation, conditional grouping,
 -- revenue tiers, behavior-based tagging, fraud flags, cohort bucketing
