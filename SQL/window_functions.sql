@@ -1,6 +1,6 @@
 
 -- ========================================
--- window_functions.sql - Google-Level SQL Interview Prep
+-- window_functions.sql - SQL Interview Prep
 -- ========================================
 -- Focus: RANK, DENSE_RANK, ROW_NUMBER, LAG, LEAD, NTILE, FIRST_VALUE, LAST_VALUE
 -- Covers: partitions, ordering, filtering with window outputs, analytics cases
