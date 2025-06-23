@@ -1,6 +1,6 @@
 
 -- ========================================
--- joins_google_faang_level.sql - FAANG-Level SQL JOIN Interview Prep
+-- joins.sql - SQL JOIN Interview Prep
 -- ========================================
 -- Real questions used by Google, Amazon, Meta, etc.
 -- Includes: self joins, anti-joins, campaign logic, nested joins,
