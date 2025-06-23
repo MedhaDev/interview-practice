@@ -1,6 +1,6 @@
 
 -- ========================================
--- joins.sql - Google-Level SQL Interview Prep
+-- joins.sql - SQL Interview Prep
 -- ========================================
 -- Focus: Complex joins, self joins, multi-table logic, outer joins with filters,
 -- anti-joins, semi-joins, NULL handling, and advanced join conditions
