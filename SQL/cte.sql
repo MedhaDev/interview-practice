@@ -1,6 +1,6 @@
 
 -- ========================================
--- cte_examples_google_faang_level.sql - FAANG-Level SQL CTE Interview Prep
+-- cte_examples.sql - SQL CTE Interview Prep
 -- ========================================
 -- Covers: single and recursive CTEs, multi-CTE pipelines, window functions inside CTEs,
 -- conditional filters, analytics use cases, and hiring-level business logic
